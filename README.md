@@ -5,14 +5,6 @@
 📫 How to reach me:ganeshhy1903@gmai.com<br>
 📫 How to reach me:https://www.linkedin.com/in/ganesh-hy-930630249/
 <h3 align="left">Connect with me:</h3>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Connect with me</title>
-</head>
-<body>
 
 <!-- GitHub Icon -->
 <a href="https://github.com/YourGitHubUsername" target="_blank" rel="noopener noreferrer">
@@ -32,9 +24,9 @@
 <!-- Text Links -->
 <p>Connect with me:</p>
 <ul>
-    <li><a href="https://github.com/YourGitHubUsername" target="_blank" rel="noopener noreferrer">GitHub</a></li>
-    <li><a href="https://www.hackerrank.com/YourHackerRankUsername" target="_blank" rel="noopener noreferrer">HackerRank</a></li>
-    <li><a href="https://auth.geeksforgeeks.org/user/YourGeeksforGeeksUsername/practice/" target="_blank" rel="noopener noreferrer">GeeksforGeeks</a></li>
+    <li><a href="https://github.com/ganeshhy" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+    <li><a href="https://www.hackerrank.com/profile/ganeshhy1903" target="_blank" rel="noopener noreferrer">HackerRank</a></li>
+    <li><a href="https://www.geeksforgeeks.org/user/ganeshhg77w/" target="_blank" rel="noopener noreferrer">GeeksforGeeks</a></li>
 </ul>
 
 </body>
