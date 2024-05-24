@@ -1,4 +1,4 @@
-Hi i'm Ganesh H Y
+<center>Hi i'm Ganesh H Y</center>
 
 
 - 💬 Ask me about :Python
