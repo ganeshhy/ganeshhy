@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ganesh HY</h1>
 
 
-<h3 align="left">Connect with me:</h3>
+
 📫 How to reach me:ganeshhy1903@gmai.com<br>
 📫 How to reach me:https://www.linkedin.com/in/ganesh-hy-930630249/
+<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
