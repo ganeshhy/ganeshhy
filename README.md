@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ganesh HY</h1>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 
 📫 How to reach me:ganeshhy1903@gmail.com<br>
